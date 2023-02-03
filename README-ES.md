@@ -5,7 +5,7 @@
 # Image Converter
 
 ## Descripción
-Este programa permite convertir imágenes en formato PNG, JPG, GIF, BMP, entre otros, a cualquier otro formato de imagen compatible con la librería PIL (Python Imaging Library).
+Este programa permite convertir imágenes en formato PNG, JPG, GIF, BMP, ICO, entre otros, a cualquier otro formato de imagen compatible con la librería PIL (Python Imaging Library).
 
 ## Uso
 El uso es simple, primero se debe tener instalado Python en el equipo. Luego, descargar el archivo image_converter.py y ejecutarlo en la terminal o en la línea de comandos.
