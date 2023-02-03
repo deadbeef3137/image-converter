@@ -17,6 +17,10 @@ python image_converter.py
 ## Entrada
 Por defecto, el programa buscará imágenes en el mismo directorio donde se encuentra el archivo image_converter.py. Las imágenes convertidas se guardarán en una carpeta llamada ico_files en el mismo directorio.
 
+```
+python image_converter.py
+```
+
 Además, el usuario puede especificar el tamaño de la imagen de salida utilizando el parámetro -s o --size. Si se especifica un tamaño, la imagen se redimensionará a ese tamaño antes de ser guardada. Si se especifica full, la imagen se guardará en tamaño original.
 
 ```
