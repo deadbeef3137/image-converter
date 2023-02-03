@@ -1,5 +1,5 @@
 ***
-### Autor: [@deadbeef3137](https://github.com/deadbeef3137)
+### Author: [@deadbeef3137](https://github.com/deadbeef3137)
 ***
 
 # Image Converter
