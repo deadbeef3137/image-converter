@@ -37,6 +37,7 @@ The converted images will be saved in a folder with the name of the output forma
 ## Requirements
 - Python 3.x
 - Python Imaging Library (PIL)
+- PyPDF4
 
 To install the PIL library, run in the terminal or command line:
 
