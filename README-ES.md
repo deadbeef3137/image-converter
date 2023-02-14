@@ -39,9 +39,16 @@ Las imágenes convertidas se guardarán en una carpeta con el nombre del formato
 ## Requisitos
 - Python 3.x
 - La librería PIL (Python Imaging Library)
+- PyPDF4
 
 Para instalar la librería PIL, ejecute en la terminal o en la línea de comandos:
 
 ```
 pip install pillow
+```
+
+Para instalar la librería PyPDF4, ejecute en la terminal o en la línea de comandos:
+
+```
+pip install PyPDF4
 ```
