@@ -44,3 +44,9 @@ To install the PIL library, run in the terminal or command line:
 ```
 pip install pillow
 ```
+
+To install the PyPDF4 library, run in the terminal or command line:
+
+```
+pip install PyPDF4
+```
